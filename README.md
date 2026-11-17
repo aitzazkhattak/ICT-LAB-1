@@ -1,2 +1,2 @@
-# ICT-LAB-1
-HANDS ON GOOGLE SEARCH QUERY
+# ICT-LAB-8
+All lab tasks
